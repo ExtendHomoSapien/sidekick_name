@@ -1,4 +1,6 @@
-import sys, random
+"""Module includes main control logic  """
+import random
+import sys
 
 print("Welcome to the Psych 'Sidekick Name Picker.'\n")
 print("A name just like Sean would pick for Gus:\n\n")
