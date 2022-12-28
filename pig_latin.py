@@ -1,5 +1,4 @@
 """Includes logic converting words into pig latin."""
-import random
 import sys
 
 vowels = ['a', 'e', 'i', 'o', 'u', 'y']
@@ -7,7 +6,6 @@ vowels = ['a', 'e', 'i', 'o', 'u', 'y']
 
 def main():
     """Return pig latin version of word until user interrupt."""
-    word = ''
     print("Welcome to Pig Latin Maker.'\n")
 
     while True:
